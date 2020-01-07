@@ -3,38 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b3a1ce29-c5ab-4e4c-a81a-95a712f29be9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/footer/footer.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/footer/footer.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/navbar/navbar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/airline/airline.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/airline/airline.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/dashboard/dashboard.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/dashboard/dashboard.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/dashboard/dashboard.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/dashboard/dashboard.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/icons/icons.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/icons/icons.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/icons/icons.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/icons/icons.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.routing.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.routing.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/maps/maps.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/maps/maps.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/maps/maps.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/maps/maps.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/table-list/table-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/table-list/table-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/typography/typography.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/typography/typography.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/typography/typography.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/typography/typography.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/upgrade/upgrade.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/upgrade/upgrade.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/upgrade/upgrade.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/upgrade/upgrade.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/user-profile/user-profile.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/user-profile/user-profile.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/demo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/core/_sidebar-and-main-panel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/core/_sidebar-and-main-panel.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -48,11 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.ts">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/dashboard/dashboard.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="165">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/airline/airline.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -85,7 +64,6 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/src/app/user-profile/user-profile.component.html" />
-        <option value="$PROJECT_DIR$/src/app/dashboard/dashboard.component.html" />
         <option value="$PROJECT_DIR$/src/app/dashboard/dashboard.component.ts" />
         <option value="$PROJECT_DIR$/src/app/components/footer/footer.component.html" />
         <option value="$PROJECT_DIR$/src/app/components/navbar/navbar.component.html" />
@@ -96,13 +74,14 @@
         <option value="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.component.html" />
         <option value="$PROJECT_DIR$/src/assets/css/demo.css" />
         <option value="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.html" />
-        <option value="$PROJECT_DIR$/src/app/airline/airline.component.html" />
         <option value="$PROJECT_DIR$/src/app/flight/flight.component.html" />
         <option value="$PROJECT_DIR$/src/app/airport/airport.component.html" />
         <option value="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.routing.ts" />
         <option value="$PROJECT_DIR$/src/app/layouts/admin-layout/admin-layout.module.ts" />
         <option value="$PROJECT_DIR$/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/dashboard/dashboard.component.html" />
+        <option value="$PROJECT_DIR$/src/app/airline/airline.component.html" />
       </list>
     </option>
   </component>
@@ -139,44 +118,7 @@
               <item name="flights-system-simulator-fe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flights-system-simulator-fe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flights-system-simulator-fe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="sidebar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flights-system-simulator-fe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flights-system-simulator-fe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flights-system-simulator-fe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flights-system-simulator-fe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="flight" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flights-system-simulator-fe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flights-system-simulator-fe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flights-system-simulator-fe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flights-system-simulator-fe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="admin-layout" type="462c0819:PsiDirectoryNode" />
+              <item name="airline" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flights-system-simulator-fe" type="b2602c69:ProjectViewProjectNode" />
@@ -184,6 +126,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="table-list" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flights-system-simulator-fe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flights-system-simulator-fe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="user-profile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="flights-system-simulator-fe" type="b2602c69:ProjectViewProjectNode" />
@@ -265,12 +214,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578400793911</updated>
-      <workItem from="1578400795081" duration="6855000" />
+      <workItem from="1578400795081" duration="8091000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6855000" />
+    <option name="totallyTimeSpent" value="8091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -283,7 +232,7 @@
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3739726" />
+      <window_info anchor="bottom" id="Terminal" weight="0.6356164" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -342,13 +291,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/icons/icons.component.ts">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/user-profile/user-profile.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="69" column="50" lean-forward="true" selection-start-line="69" selection-start-column="50" selection-end-line="69" selection-end-column="50" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -449,13 +391,6 @@
     <entry file="file://$PROJECT_DIR$/src/app/dashboard/dashboard.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/dashboard/dashboard.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="50" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -480,13 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/airline/airline.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -536,8 +464,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/components/sidebar/sidebar.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="300">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/user-profile/user-profile.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/dashboard/dashboard.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/airline/airline.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
