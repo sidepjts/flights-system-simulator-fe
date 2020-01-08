@@ -24,7 +24,7 @@ export class DashboardComponent implements OnInit {
     this.departureColumns = this.dashboardService.getDeparturesColumns();
 
     this.dashboardService.http
-        .get<ApiResponse>('http://localhost:8080/simulation/FCO/flights')
+        .get<ApiResponse>('https://nameless-hamlet-24060.herokuapp.com/simulation/FCO/flights')
         .subscribe( res => {
           this.apiResponse = res;
           console.log(res);

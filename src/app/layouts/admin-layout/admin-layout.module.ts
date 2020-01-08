@@ -6,7 +6,6 @@ import { AdminLayoutRoutes } from './admin-layout.routing';
 import { DashboardComponent } from '../../dashboard/dashboard.component';
 import { AirlineComponent } from '../../airline/airline.component';
 import { UserProfileComponent } from '../../user-profile/user-profile.component';
-import { TableListComponent } from '../../table-list/table-list.component';
 import { NotificationsComponent } from '../../notifications/notifications.component';
 
 import {
@@ -38,7 +37,6 @@ import {FlightComponent} from '../../flight/flight.component';
     AirportComponent,
     FlightComponent,
     UserProfileComponent,
-    TableListComponent,
     NotificationsComponent,
   ]
 })

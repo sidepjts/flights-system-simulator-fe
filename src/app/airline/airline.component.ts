@@ -27,7 +27,7 @@ export class AirlineComponent implements OnInit {
     this.columns = this.airlineService.getColumns();
 
     this.airlines = this.airlineService.http
-        .get<any>('http://localhost:8080/airlines')
+        .get<any>('https://nameless-hamlet-24060.herokuapp.com/airlines')
         .map(resp => _.values(resp.data))
         .do(console.log);
 
@@ -40,10 +40,12 @@ export class AirlineComponent implements OnInit {
     const formData = new FormData();
     formData.append('file', this.uploadForm.get('profile').value);
 
-    this.airlineService.http.post<any>('http://localhost:8080/airlines', formData).subscribe(
-        (res) => console.log(res),
-        (err) => console.log(err)
-    );
+    this.airlineService.http
+        .post<any>('https://nameless-hamlet-24060.herokuapp.com/airlines', formData)
+        .subscribe(
+            (res) => console.log(res),
+            (err) => console.log(err)
+        );
   }
 
 }
