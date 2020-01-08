@@ -1,0 +1,11 @@
+.btn.btn-primary.btn-generate {
+    background-color: darkslateblue;
+}
+
+.btn.btn-primary.btn-simulate {
+    background-color: black;
+}
+
+.row {
+    text-align: center;
+}
