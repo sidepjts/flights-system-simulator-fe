@@ -5,8 +5,6 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AdminLayoutRoutes } from './admin-layout.routing';
 import { DashboardComponent } from '../../dashboard/dashboard.component';
 import { AirlineComponent } from '../../airline/airline.component';
-import { UserProfileComponent } from '../../user-profile/user-profile.component';
-import { NotificationsComponent } from '../../notifications/notifications.component';
 
 import {
   MatButtonModule,
@@ -36,8 +34,6 @@ import {FlightComponent} from '../../flight/flight.component';
     AirlineComponent,
     AirportComponent,
     FlightComponent,
-    UserProfileComponent,
-    NotificationsComponent,
   ]
 })
 

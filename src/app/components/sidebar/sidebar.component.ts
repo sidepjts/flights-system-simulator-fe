@@ -12,8 +12,6 @@ export const ROUTES: RouteInfo[] = [
     { path: '/airline', title: 'Airlines',  icon: 'flight', class: '' },
     { path: '/airport', title: 'Airports',  icon: 'home_work', class: '' },
     { path: '/flight', title: 'Flights',  icon: 'flight_takeoff', class: '' },
-    { path: '/user-profile', title: 'User Profile',  icon: 'person', class: '' },
-    { path: '/notifications', title: 'Notifications',  icon: 'notifications', class: '' },
 ];
 
 @Component({
